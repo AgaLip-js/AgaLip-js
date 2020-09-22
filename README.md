@@ -17,13 +17,13 @@
 
 ## 📫 Follow Me
 
-You can reach me at the email <a href="mailto:agatalipiak25@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+You can reach me at the email <a href="mailto:agatalipiak25@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="26px"/> </a>
 Follow me on my social media!
 
-[<img align="left" alt="alipiak.com" width="22px" src="https://img.icons8.com/fluent/48/000000/globe.png"/>][website]
-[<img align="left" alt="alipiak | Facebook" width="22px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%" />][facebook]
-[<img align="left" alt="alipiak | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" />][linkedin]
-[<img align="left" alt="alipiak | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%" />][instagram]
+[<img align="left" alt="alipiak.com" width="26px" src="https://img.icons8.com/fluent/48/000000/globe.png"/>][website]
+[<img align="left" alt="alipiak | Facebook" width="26px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%" />][facebook]
+[<img align="left" alt="alipiak | LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" />][linkedin]
+[<img align="left" alt="alipiak | Instagram" width="26px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%" />][instagram]
 
 <br>
 
