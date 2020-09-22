@@ -1,4 +1,5 @@
-## Hi, I'm Agata and I'm learning JavaScript programming. Feel free to visit my portfolio [website] 👋
+## Hi, I'm Agata and I'm learning JavaScript programming. 
+### Feel free to visit my portfolio [website] 👋
 
 [![Website](https://img.shields.io/website?label=alipiak.com&style=for-the-badge&url=https%3A%2F%2Falipiak.com)](https://alipiak.com)
 
