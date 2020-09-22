@@ -18,7 +18,7 @@
 ## 📫 Follow Me
 
 You can reach me at the email <a href="mailto:agatalipiak25@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
-Follow me on my social media!
+<p> Follow me on my social media! </p>
 
 [<img align="left" alt="alipiak.com" width="22px" src="https://img.icons8.com/fluent/48/000000/globe.png"/>][website]
 [<img align="left" alt="alipiak | Facebook" width="22px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%" />][facebook]
