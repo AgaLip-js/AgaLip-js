@@ -5,14 +5,13 @@
 
 - :octocat: I'm a beginner programmer, over six months ago I quit my job as a Process Engineer and I started working as a Frontend Developer!
 
-- 🔭 I’m currently developing my application fullstack-homebudget
+- 🔭 I’m currently developing blog about programming
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AgaLip-js&repo=fullstack-homebudget)](https://github.com/AgaLip-js/fullstack-homebudget)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AgaLip-js&repo=myBlog)](https://github.com/AgaLip-js/myBlog)
 
-- 🌱 I’m currently increasing my knowledge of Frontend (React, Redux) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="25" height="25"/> Backend (Node.js) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" /> and Databases (PostgreSQL).
+- 🌱 I’m currently increasing my knowledge of Frontend (React, Redux) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="25" height="25"/> Backend (Node.js) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" /> and Databases (MongoDB).
 
 - 💻 I am planning to start and run a programming blog
-- 🥅 2020 Goals: complete projects, learn Gatsby, GSAP and become Junior Frontend Developer
 - ⚡ Fun fact: I love playing football and drinking craft beer 🤣
 
 ## 📫 Follow Me
