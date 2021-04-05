@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/website?label=alipiak.com&style=for-the-badge&url=https%3A%2F%2Falipiak.com)](https://alipiak.com)
 
-- :octocat: I'm a beginner programmer, over six months ago I quit my job as a Process Engineer and I started working as a Frontend Developer!
+- :octocat: I'm a Front-end Developer, over six months ago I quit my job as a Process Engineer and I started working as a programmer!
 
 - 🔭 I’m currently developing blog about programming
 
