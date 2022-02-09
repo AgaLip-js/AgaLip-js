@@ -1,6 +1,6 @@
 ## Hi, I'm Agata and I work as Frontend Developer. 
 
-- :octocat: I work in React technology on a daily basis. I have been developing my programming skills for over two years  
+- :octocat: I work in React technology on a daily basis. I have been developing my programming skills for over two years.  
 
 - 🔭 I'm currently focusing on developing my programming skills - my strengths are React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> and Redux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="25" height="25"/>. Recently I started learning TypeScript 💪.
 
