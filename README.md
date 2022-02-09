@@ -2,9 +2,9 @@
 
 - :octocat: I work in React technology on a daily basis. I have been developing my programming skills for over two years  
 
-- 🔭 I'm currently focusing on developing my programming skills - my strengths are React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> and Redux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="25" height="25"/>. Recently started learning TypeScript <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+- 🔭 I'm currently focusing on developing my programming skills - my strengths are React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> and Redux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="25" height="25"/>. Recently I started learning TypeScript 💪.
 
-- 🌱 When it comes to backend, I feel most strongly in NodeJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" /> and MongoDB <img align="left" alt="Terminal" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />.
+- 🌱 When it comes to backend, I feel most strongly in NodeJS and MongoDB.
 
 - ⚡ Fun fact: I love playing football, training martial arts and drinking craft beer 🤣
 
