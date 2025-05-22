@@ -2,7 +2,7 @@
 
 - :octocat: I have been programming for over 4 years, specializing in modern frontend technologies.
 
-- 💻 I work daily with React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />, TypeScript <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="25" height="25" />, Tailwind CSS <img align="left" alt="Tailwind CSS" width="26px" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" />, and Next.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="25" height="25" />.
+- 💻 I work daily with React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />, TypeScript <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="25" height="25" />, Tailwind CSS <img alt="Tailwind CSS" width="26px" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" />, and Next.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="25" height="25" />.
 
 - 🌱 When it comes to backend, I feel most strongly in NodeJS and MongoDB.
 
